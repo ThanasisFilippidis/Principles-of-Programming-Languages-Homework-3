@@ -1,6 +1,10 @@
 # Principles-of-Programming-Languages-Homework-3
 A Haskell program that creates random "perfect" 2d mazes using a modified version of Kruskal's algorithm.
 
+Developed by:
+Lefteris Karampas: mr.lef_21113@hotmail.com
+Thanasis Filippidis: thanasisflpd@gmail.com
+
 We have represented the maze as a graph where each node is a cell and and each vertice is a cell wall that has been removed.
 
 Every cell with coordinates (x,y) has a unique id that can be calculated by the function id = y * width + x where width is the width of the
